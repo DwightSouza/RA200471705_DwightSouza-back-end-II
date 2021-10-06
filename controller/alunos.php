@@ -26,6 +26,7 @@ class alunos {
 		return $dados;
 	}
 
+
 	private function inserirAlunos(){
 		include("../model/conexao.php");
 
